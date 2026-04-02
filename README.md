@@ -27,11 +27,11 @@ Gry zostały zaprojektowane z wykorzystaniem **programowania obiektowego (OOP)**
 | **Tic Tac Toe** | Kółko i krzyżyk z obsługą dynamicznych plansz (3x3 do 8x8). | `copy` (deepcopy), `re` |
 | **Word Chain** | Słowotok sprawdzający poprawność słów w czasie rzeczywistym. | `requests`, [Dictionary API] |
 
-**Gra w wisielca:**
+**Przykłady gier - `Word Chain`, `Hangman` i `Tic Tac Toe`:** <p align="center">
+![Animationa1](https://github.com/user-attachments/assets/5bbcbce0-4b54-467f-840e-17f0411531f4)
+![Animationa2](https://github.com/user-attachments/assets/715467d2-3912-40b6-bb5a-7176ec62edda)
+![Animationa3](https://github.com/user-attachments/assets/9017e707-bf6a-4108-bb84-5c8057c61f25)
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/8a56ad7e-96c9-455c-ab88-1740a785b613" muted autoplay loop playsinline style="max-width: 100%;">
-  </video>
 </p>
 
 ### 🚀 Przyszła rozbudowa
@@ -64,10 +64,10 @@ Games were created with **object-oriented programming (OOP)**.
 | **Tic Tac Toe** | Tic tac toe with a custom mode (3x3 to 8x8). | `copy` (deepcopy), `re` |
 | **Word Chain** | Users have to write a word that starts with the same letter as the last character of the previous word. | `requests`, [Dictionary API] |
 
-**Gameplay examples:** <p align="center">
-  <video src="https://github.com/user-attachments/assets/8a56ad7e-96c9-455c-ab88-1740a785b613" muted autoplay loop playsinline style="max-width: 100%;">
-  </video>
-</p>
+**Gameplay examples - `Word Chain`, `Hangman` i `Tic Tac Toe`:** <p align="center">
+![Animationa1](https://github.com/user-attachments/assets/5bbcbce0-4b54-467f-840e-17f0411531f4)
+![Animationa2](https://github.com/user-attachments/assets/715467d2-3912-40b6-bb5a-7176ec62edda)
+![Animationa3](https://github.com/user-attachments/assets/9017e707-bf6a-4108-bb84-5c8057c61f25)
 
 ### 🚀 Future Roadmap
 Future evolution of this project:
