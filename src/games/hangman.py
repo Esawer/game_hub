@@ -25,7 +25,6 @@ class Board:
         return self.b_state
 
     def change(self, letter):
-        print(self.b_word)
         for i in range(len(self.b_state)):
             if self.b_word[i] == letter and self.b_state[i] == '*':
                 self.b_state = list(self.b_state)
@@ -72,7 +71,7 @@ class Game:
 
             if tries > 0:
                 for i in range(len(player_list)):
-                    print(f"{player_list[i].player_name} try: ")
+                    print(f"\n{player_list[i].player_name} try: ")
                     print(board)
 
                     if board.change(player_list[i].move()):

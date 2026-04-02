@@ -2,7 +2,7 @@ import random
 from copy import deepcopy
 import re
 
-
+# Custom mode will be accessible in web version.
 class Player:
     def __init__(self, name: str):
         self.name = name

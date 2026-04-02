@@ -8,7 +8,7 @@ class Board:
         self.word_chain = word_chain
 
     def change_turn(self, p_name: str):
-        print(f"{p_name}'s turn.")
+        print(f"\n{p_name}'s turn.")
 
     def add_word(self, word: str):
         self.word_chain += word + " -> "
