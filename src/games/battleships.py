@@ -106,9 +106,7 @@ class Game:
                       Board(self.b_size, [['0' for _ in range(self.b_size)] for _ in range(self.b_size)])]
 
         player_1_turn = bool(random.randint(0, 1))
-        vessels = {'0': ['aircraft carrier', 1, 5]}
-        # , '1': ['destroyer', 2, 4],
-        # '2': ['submarine', 2, 3], '3': ['escort ship', 2, 2]
+        vessels = {'0': ['aircraft carrier', 1, 5], '1': ['destroyer', 2, 4],'2': ['submarine', 2, 3], '3': ['escort ship', 2, 2]}
         num_of_ships = []
         len_of_ships = []
 
