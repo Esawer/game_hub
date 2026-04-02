@@ -32,8 +32,8 @@ class Game:
         first_game = True
         player_1_turn = bool(random.randint(0, 1))
         board = Board("", "")
-        player_1 = Player(0, "andrew")
-        player_2 = Player(0, 'bobox')
+        player_1 = Player(0, "Andrew")
+        player_2 = Player(0, 'Bob')
         player_list = [player_2, player_1]
 
         while game_on:
